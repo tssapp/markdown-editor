@@ -15,7 +15,7 @@
     "moduleResolution": "Node",
     "resolveJsonModule": true,
     "isolatedModules": false,
-    "noEmit": true
+    "noEmit": false
   },
-  "include": ["src/**/*"]
+  "include": ["src/lib/**/*"]
 }

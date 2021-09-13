@@ -1,4 +1,4 @@
-import Markdown from "./markdown";
-import * as Types from "./markdown/type";
+import Markdown from "./main";
+import * as Types from "./type";
 
 export { Markdown, Types };
