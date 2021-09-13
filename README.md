@@ -10,3 +10,5 @@
 ## Screenshot
 
 ![Screenshot](./public/assets/img/screenshot-editor.png)
+
+![Custom styled](./public/assets/img/custom.png)
