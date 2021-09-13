@@ -9,4 +9,4 @@
 
 ## Screenshot
 
-[Screenshot](./public/assets/img/screenshot-editor.png)
+![Screenshot](./public/assets/img/screenshot-editor.png)
