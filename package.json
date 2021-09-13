@@ -8,8 +8,8 @@
     "dist/"
   ],
   "scripts": {
-    "start": "SNOWPACK_PUBLIC_URL= snowpack dev",
-    "build": "snowpack build --config snowpack.prod.js",
+    "start": "SNOWPACK_PUBLIC_URL= snowpack dev --polyfill-node ",
+    "build": "snowpack build --config snowpack.prod.js --polyfill-node ",
     "buildpackage": "tsc",
     "test": "jest"
   },
