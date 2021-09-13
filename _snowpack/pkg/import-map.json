@@ -1,0 +1,13 @@
+{
+  "imports": {
+    "@aeaton/prosemirror-commands": "./@aeaton/prosemirror-commands.js",
+    "@aeaton/react-prosemirror": "./@aeaton/react-prosemirror.js",
+    "@aeaton/react-prosemirror-config-default": "./@aeaton/react-prosemirror-config-default.js",
+    "prosemirror-commands": "./prosemirror-commands.js",
+    "prosemirror-schema-list": "./prosemirror-schema-list.js",
+    "react": "./react.js",
+    "react-dom": "./react-dom.js",
+    "react-router-dom": "./react-router-dom.js",
+    "styled-components": "./styled-components.js"
+  }
+}

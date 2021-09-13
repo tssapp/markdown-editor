@@ -1,0 +1,33 @@
+body {
+  font-family: Helvetica, sans-serif;
+  font-weight: 100;
+  margin: 0;
+}
+
+header {
+  height: 50px;
+  border-bottom: 1pt solid #e9e3e6;
+  padding-top: 20px;
+  padding-right: 40px;
+  padding-left: 40px;
+  vertical-align: middle;
+}
+
+main {
+  background-color: #f8f9fa;
+  min-height: calc(100vh - 100px);
+  padding: 10px 40px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: gray;
+}
+
+a:active {
+  color: gray;
+}
