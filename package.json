@@ -1,13 +1,16 @@
 {
   "name": "@tssbpchannel/markdown-editor",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "README.md",
     "dist/"
   ],
-  "keywords": ["markdown", "editor"],
+  "keywords": [
+    "markdown",
+    "editor"
+  ],
   "scripts": {
     "start": "SNOWPACK_PUBLIC_URL= snowpack dev --polyfill-node ",
     "build": "snowpack build --config snowpack.prod.js --polyfill-node ",
