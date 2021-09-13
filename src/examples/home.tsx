@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 
-import Markdown from "../lib/markdown";
-import * as T from "../lib/markdown/type";
+import { Markdown } from "../lib";
 
 export default () => {
   const [value, setValue] = useState<string>("");

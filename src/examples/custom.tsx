@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
-import Markdown from "../lib/markdown";
-import * as T from "../lib/markdown/type";
+import { Markdown } from "../lib";
+import * as T from "../lib/type";
 import Tb from "./toolbar";
 
 const Wrapper = (props: { children: any }) => {
