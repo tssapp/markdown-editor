@@ -5,8 +5,6 @@ import Custom from "./examples/custom";
 
 import Layout from "./layout";
 
-import { basename } from "./config";
-
 // import { links, linksApp } from "./links";
 
 const NotFound = () => (
@@ -29,7 +27,7 @@ const AppRouter = () => {
 
 export default () => {
   return (
-    <Router basename={basename}>
+    <Router>
       <Switch>
         <AppRouter />
       </Switch>
